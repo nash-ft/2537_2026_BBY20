@@ -1,0 +1,30 @@
+{
+  "name": "2537_2026_bby20",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nash-ft/2537_2026_BBY20#readme",
+  "bugs": {
+    "url": "https://github.com/nash-ft/2537_2026_BBY20/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nash-ft/2537_2026_BBY20.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
+    "firebase": "^12.4.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}
